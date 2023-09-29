@@ -1,0 +1,2 @@
+# myfirstproject
+django based project
